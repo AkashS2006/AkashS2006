@@ -5,7 +5,7 @@ Aspiring Software Engineer | Python • SQL • Power BI • Machine Learning
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+Enthusiast;Building+Enterprise+Decision+Intelligence+Platform;Turning+Data+into+Business+Insights"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Aspiring+Software+Engineer;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+Enthusiast;Building+Enterprise+Decision+Intelligence+Platform;Turning+Data+into+Business+Insights"/>
 </p>
 
 <p align="center">
