@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash S</h1>
 
 <h3 align="center">
-Aspiring Data Analyst | Python • SQL • Power BI • Machine Learning
+Aspiring Software Engineer | Python • SQL • Power BI • Machine Learning
 </h3>
 
 <p align="center">
